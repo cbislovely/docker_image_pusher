@@ -4,3 +4,10 @@ jmal/jmalcloud-nginx:latest
 laoliu233/surgio-docker
 cym1102/nginxwebui
 kingwrcy/moments
+cym1102/nginxwebui
+library/redis
+frooodle/s-pdf
+synctvorg/synctv
+figro/unraid-cloudflared-tunnel
+library/nextcloud
+linuxserver/mariadb
