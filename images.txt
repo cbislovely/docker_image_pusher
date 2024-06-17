@@ -1,6 +1,6 @@
 adguard/adguardhome
-jmal/jmalcloud:latest
-jmal/jmalcloud-nginx:latest
+jmal/jmalcloud
+jmal/jmalcloud-nginx
 laoliu233/surgio-docker
 cym1102/nginxwebui
 kingwrcy/moments
