@@ -27,3 +27,4 @@ rustdesk/rustdesk-server:latest
 minio/minio
 zhaojun1998/zfile-pro
 onlyoffice/communityserver
+justsong/message-pusher
